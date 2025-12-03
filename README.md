@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on improving my skills in data field.<br>I'm looking for help in AIML so that I can learn how to train models and deploy working projects<br>I'm currently learning data science, and to talk about myself, I am a graduate computer engineer.<br> with hands-on experience in flutter and web application, I am open to work and to improve my skills in required department.
+I'm currently working on improving my skills in data field.<br>I'm exploring AIML so that I can learn how to train models and deploy working projects<br>I'm currently learning data science, and to talk about myself, I am a graduate computer engineer.<br> with hands-on experience in flutter and web application, I am open to work and to improve my skills in required department.
 
 
 ## 🌐 Socials:
